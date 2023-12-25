@@ -21,15 +21,14 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/way6shekhar" target="blank"><img src="https://img.shields.io/twitter/follow/way6shekhar?logo=twitter&style=for-the-badge" alt="way6shekhar" /></a> </p>
 
-- 🔭 I’m currently working on [Study-Mania(Ed-Tech Project)](https://github.com/Priyanshushekhar77/Study-Mania)
+- 🔭 I’m **Full Stack Developer** currently working on [Study-Mania(Ed-Tech Project)](https://github.com/Priyanshushekhar77/Study-Mania)
 
-- 🌱 I’m currently learning **Full Stack, React js and D.S.A**
 
 - 👨‍💻 All of my projects are available at [https://priyanshushekhar77.github.io/myportfolio/](https://priyanshushekhar77.github.io/myportfolio/)
 
-- 💬 Ask me about **Web Development,Competitive Programming,C++ and Algorithms.**
+- 💬 Ask me about **Web Development,Competitive Programming,Data Structures and Algorithms.**
 
-- 📫 How to reach me **way6shekhar@gmail.com**
+- 📫 How to reach me **way6priyanshu@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/183OFnaEyukIdzjrNSjfzWqUUmu2a4jKm/view?usp=drivesdk](https://drive.google.com/file/d/183OFnaEyukIdzjrNSjfzWqUUmu2a4jKm/view?usp=drivesdk)
 
