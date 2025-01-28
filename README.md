@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 <!--
 **Priyanshushekhar77/Priyanshushekhar77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://previews.123rf.com/images/andreysuslov/andreysuslov1905/andreysuslov190500001/122585893-web-design-and-coding-in-internet-page-development-languages-designer-develops-site-layout-in.jpg
-)
+
+[![MasterHead](https://previews.123rf.com/images/andreysuslov/andreysuslov1905/andreysuslov190500001/122585893-web-design-and-coding-in-internet-page-development-languages-designer-develops-site-layout-in.jpg)
+
 <h1 align="center">Hi 👋, I'm Priyanshu Shekhar</h1>
 <h3 align="center">A Passionate Full Stack Web Developer and Coding enthusiast.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshushekhar77&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshushekhar77" /> </p>
@@ -22,7 +24,6 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/way6shekhar" target="blank"><img src="https://img.shields.io/twitter/follow/way6shekhar?logo=twitter&style=for-the-badge" alt="way6shekhar" /></a> </p>
 
 - 🔭 I’m **Full Stack Developer** currently working on [Study-Mania(Ed-Tech Project)](https://github.com/Priyanshushekhar77/Study-Mania)
-
 
 - 👨‍💻 All of my projects are available at [https://priyanshushekhar77.github.io/myportfolio/](https://priyanshushekhar77.github.io/myportfolio/)
 
@@ -35,12 +36,12 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/way6shekhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="way6shekhar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-shekhar-97a686239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu-shekhar-97a686239" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/way7_shekhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/way7_shekhar/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/priyanshu_3708" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/priyanshu_3708" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/priyanshu_21ug21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/priyanshu_21ug21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/way6shekhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/way6shekhar/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/way6she3fp/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/way6she3fp/practice" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priyanshu-shekhar-97a686239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu-shekhar-97a686239" height="30" width="40" /></a>
+<a href="https://www.instagram.com/way7_shekhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/way7_shekhar/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/priyanshu_3708" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/priyanshu_3708" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/priyanshu_21ug21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/priyanshu_21ug21" height="30" width="40" /></a>
+<a href="https://leetcode.com/way6shekhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/way6shekhar/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/way6she3fp/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/way6she3fp/practice" height="30" width="40" /></a>
 <a href="https://discord.gg/priyanshu Shekhar#0706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="priyanshu Shekhar#0706" height="30" width="40" /></a>
 </p>
 
